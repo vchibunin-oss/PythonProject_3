@@ -1,0 +1,8 @@
+requests
+psycopg2-binary
+python-dotenv
+pytest
+pytest-cov
+black
+flake8
+isort
