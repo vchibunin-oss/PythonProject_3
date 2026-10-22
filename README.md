@@ -43,7 +43,6 @@ PythonProject_3/
 │   ├── test_database.py
 │   ├── test_db_manager.py
 │   └── test_loader.py
-├── .env
 ├── .gitignore
 ├── main.py
 ├── requirements.txt
